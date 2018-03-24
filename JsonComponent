@@ -1,0 +1,23 @@
+{
+		"object_id":null,
+		"class_name":null,
+		"creation_timestamp":null,
+		"name":"Suelin",
+		"status":null,
+		"description":"Suelin de prueba",
+		"consumption":2,
+		"measurement_unit":{
+			"mu_id":1,
+			"name":"m2pp",
+			"description":"Metros Cuadrados por par"
+		},
+		"material":{
+			"object_id":3,
+			"class_name":"wear.material",
+			"creation_timestamp":"2018-03-18T15:27:22.951163-03:00",
+			"name":"Plástico",
+			"status":"ENABLED",
+			"description":"Material Plástico"
+		}
+    "detail":"Detalle"
+	}
