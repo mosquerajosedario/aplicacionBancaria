@@ -1,0 +1,71 @@
+{
+		"object_id":null,
+		"class_name":null,
+		"creation_timestamp":null,
+		"name":"Tapa Taco compuesta",
+		"status":null,
+		"description":"Tapa Taco de prueba",
+		"consumption":2,
+		"measurement_unit":{
+			"mu_id":2,
+			"name":"upp",
+			"description":"unidades por par"
+		},
+		"detail":"Detalle",
+		"material":{
+			"object_id":3,
+			"class_name":"wear.material",
+			"creation_timestamp":"2018-03-18T15:27:22.951163-03:00",
+			"name":"Plástico",
+			"status":"ENABLED",
+			"description":"Material Plástico"
+		},
+		"simple_components":[
+			{
+				"object_id":4,
+				"class_name":"wear.component",
+				"creation_timestamp":"2018-03-19T12:28:48.926037-03:00",
+				"name":"Suelin",
+				"status":"ENABLED",
+				"description":"Suelin de prueba",
+				"consumption":2,
+				"measurement_unit":{
+					"mu_id":1,
+					"name":"m2pp",
+					"description":"Metros Cuadrados por par"
+				},
+				"material":{
+					"object_id":3,
+					"class_name":"wear.material",
+					"creation_timestamp":"2018-03-19T12:28:48.909399-03:00",
+					"name":"Plástico",
+					"status":"ENABLED",
+					"description":"Material Plástico"
+				},
+				"detail":"Detalle"
+			},
+			{
+				"object_id":5,
+				"class_name":"wear.component",
+				"creation_timestamp":"2018-03-19T12:28:48.943785-03:00",
+				"name":"Tapa Taco",
+				"status":"ENABLED",
+				"description":"Tapa Taco de prueba",
+				"consumption":2,
+				"measurement_unit":{
+					"mu_id":2,
+					"name":"upp",
+					"description":"unidades por par"
+				},
+				"material":{
+					"object_id":3,
+					"class_name":"wear.material",
+					"creation_timestamp":"2018-03-19T12:28:48.909399-03:00",
+					"name":"Plástico",
+					"status":"ENABLED",
+					"description":"Material Plástico"
+				},
+				"detail":"Detalle"
+			}
+		]
+	}
