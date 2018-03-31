@@ -1,0 +1,26 @@
+[  
+   {  
+      "object_id":1,
+      "class_name":"clase_plastico",
+      "creation_timestamp":"24/03/2018",
+      "name":"Plástico",
+      "status":"Activo",
+      "description":"Material Plástico"
+   },
+   {  
+      "object_id":2,
+      "class_name":"clase_plastico2",
+      "creation_timestamp":"24/03/2018",
+      "name":"Plástico2",
+      "status":"Activo2",
+      "description":"Material Plástico2"
+   },
+   {  
+      "object_id":3,
+      "class_name":"clase_plastico3",
+      "creation_timestamp":"24/03/2018",
+      "name":"Plástico3",
+      "status":"Activo3",
+      "description":"Material Plástico3"
+   }
+]
