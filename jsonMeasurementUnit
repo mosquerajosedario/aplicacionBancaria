@@ -1,0 +1,17 @@
+[  
+   {  
+      "mu_id":1,
+      "name":"upp",
+      "description":"unidades por par"
+   },
+   {  
+      "mu_id":2,
+      "name":"upp2",
+      "description":"unidades por par2"
+   },
+   {  
+      "mu_id":3,
+      "name":"upp3",
+      "description":"unidades por par3"
+   }
+]
